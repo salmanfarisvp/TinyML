@@ -4,6 +4,10 @@ KWS will enables users to activate devices by speaking a keyword phrase. Here in
 
 Demo video: https://www.youtube.com/watch?v=oa0BGRXnb8w 
 
+#### How it works
+
+![](src/img/KWS_Diagram.png)
+
 #### How to use
 
 1. Install Arduino IDE
